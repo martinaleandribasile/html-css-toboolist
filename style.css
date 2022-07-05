@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.intestation {
+    margin-top: 20px;
+    margin-left: 20px;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.intestationtitle {
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 50px
+}
+
+body {
+    background-color: rgb(221, 219, 219);
+
+}
+
+.container {
+    width: 1024px;
+    margin: 100px auto 0;
+    background-color: rgb(255, 255, 255);
+    padding: 30px 25px;
+}
+
+button {
+    background-color: #45abea;
+    border-radius: 10%;
+    border-color: #45abea;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.stylebutton {
+    background-color: white;
+    color: rgb(174, 155, 155);
+    border-color: rgb(174, 155, 155);
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.maintext {
+    margin-top: 10px;
+}
+
+.liTitle {
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.check {
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.uncheck {
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.litext {
+    font-size: 18px;
+}
+
+.arguments {
+    font-size: 12px;
+    border-radius: 30%;
+    padding: 2px;
+
+}
+
+.editorial {
+    border: 1px solid #45abea;
+    background-color: #45abea;
+}
+
+.goals {
+    border: 1px solid #9c72e4;
+    background-color: #9c72e4;
+}
+
+.recruiting {
+    border: 1px solid #64c0a9;
+    background-color: #64c0a9;
+}
+
+.mobile {
+    border: 1px solid #f29e33;
+    background-color: #f29e33;
+}
+
+.website {
+    border: 1px solid #d863a1;
+    background-color: #d863a1;
+}
+
+.sales {
+    border: 1px solid #b0c926;
+    background-color: #b0c926;
+}
